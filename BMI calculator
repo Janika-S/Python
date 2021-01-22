@@ -1,0 +1,31 @@
+import random
+import sys
+import os
+name='Maria'
+height_m=1.65
+weight_kg=60
+bmi=weight_kg/(height_m*height_m)
+print('bmi:')
+bmi:
+print(bmi)
+22.03856749311295
+if bmi<25
+...     print(name)
+...     print('is not overweight')
+... else:
+...     print(name)
+...     print('is not overweight')
+... 
+  File "<input>", line 1
+    if bmi<25
+             ^
+SyntaxError: invalid syntax
+if bmi<25:
+...     print(name)
+...     print('is not overweight')
+... else:
+...     print(name)
+...     print('is overweight')
+...     
+Maria
+is not overweight
