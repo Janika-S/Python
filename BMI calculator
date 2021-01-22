@@ -9,18 +9,10 @@ print('bmi:')
 bmi:
 print(bmi)
 22.03856749311295
-if bmi<25
+if bmi<25:
 ...     print(name)
 ...     print('is not overweight')
 ... else:
-...     print(name)
-...     print('is not overweight')
-... 
-  File "<input>", line 1
-    if bmi<25
-             ^
-SyntaxError: invalid syntax
-if bmi<25:
 ...     print(name)
 ...     print('is not overweight')
 ... else:
